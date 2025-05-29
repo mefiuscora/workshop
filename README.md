@@ -29,8 +29,6 @@ Ao final da api de input, a sequência randômica deve ser apagada para que um n
 
 # Desafio
 
-## Arquitetura
-
 ## Objetivo
 
 1- a api de palpite passa a receber uma única tentativa;
